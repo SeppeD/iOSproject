@@ -88,7 +88,7 @@ class ContactViewController: UIViewController {
     
     let groepsleiding = ["Hendrik Taelman", "+32477067778",
         "Femke Van Acker", "+32489303190",
-        "Dries Van Ryckeghem", "+32498248172",
+        "Dries V. Ryckeghem", "+32498248172",
         "Jil Den Hartog", "+32477272576",
         "Ward Buyssens", "+32491439027",
         "Guido Eeckhaoudt", "+32496025117"
